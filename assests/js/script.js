@@ -12,18 +12,18 @@ let secondCard = false;
 
 //Items array
 const items = [
-  { name: "bee", image: "bee.png" },
-  { name: "crocodile", image: "crocodile.png" },
-  { name: "macaw", image: "macaw.png" },
-  { name: "gorilla", image: "gorilla.png" },
-  { name: "tiger", image: "tiger.png" },
-  { name: "monkey", image: "monkey.png" },
-  { name: "chameleon", image: "chameleon.png" },
-  { name: "piranha", image: "piranha.png" },
-  { name: "anaconda", image: "anaconda.png" },
-  { name: "sloth", image: "sloth.png" },
-  { name: "cockatoo", image: "cockatoo.png" },
-  { name: "toucan", image: "toucan.png" },
+  { name: "bee", image: "assests/img/bee.png" },
+  { name: "crocodile", image: "assests/img/crocodile.png" },
+  { name: "macaw", image: "assests/img/macaw.png" },
+  { name: "gorilla", image: "assests/img/gorilla.png" },
+  { name: "tiger", image: "assests/img/tiger.png" },
+  { name: "monkey", image: "assests/img/monkey.png" },
+  { name: "chameleon", image: "assests/img/chameleon.png" },
+  { name: "piranha", image: "assests/img/piranha.png" },
+  { name: "anaconda", image: "assests/img/anaconda.png" },
+  { name: "sloth", image: "assests/img/sloth.png" },
+  { name: "cockatoo", image: "assests/img/cockatoo.png" },
+  { name: "toucan", image: "assests/img/toucan.png" },
 ];
 
 //Initial Time

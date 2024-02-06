@@ -128,9 +128,9 @@ const matrixGenerator = (cardValues, size = 4) => {
             <h4>Moves: ${movesCount}</h4>`;
               stopGame();
             }
-          } else {
-            //if the cards dont match
-            //flip the cards back to normal
+          } else 
+          {
+            //if the cards dont match flip the cards back to normal
             let [tempFirst, tempSecond] = [firstCard, secondCard];
             firstCard = false;
             secondCard = false;
